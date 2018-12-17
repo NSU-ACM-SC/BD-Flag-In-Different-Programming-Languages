@@ -53,4 +53,4 @@ add_executable(project_name ${SOURCE_FILES})
 ```
 
 ## Screenshot
-![img]("flag.png")
+![Imgur](https://i.imgur.com/0FpVsUY.png)
