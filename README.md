@@ -26,7 +26,7 @@ Provide a detailed commit description
 
 ```
 Edit the Contributing section of this README and add your contribution in the following pattern:
-**[Your Name](https://github.com/YOUR_GITHUB_USERNAME)** - *[YOUR_FOLDER_NAME](/YOUR_FOLDER_NAME)*
+**[Your Name](https://github.com/YOUR_GITHUB_USERNAME)** - *[YOUR_FOLDER_NAME](YOUR_FOLDER_NAME)*
 ```
 
 ```
@@ -35,7 +35,7 @@ Create a pull request
 
 
 ## Contributors
-
+**[Sabbir Mollah](https://github.com/SabbirMollah)** - *[Java-FX](Java-FX)* , *[Python-PyX](Python-PyX)*
 
 
 
