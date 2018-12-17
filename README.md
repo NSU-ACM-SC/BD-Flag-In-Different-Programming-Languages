@@ -41,8 +41,7 @@ Create a pull request
 4. **[Pritom Kumar Saha](https://github.com/BlankZer0)** - *[Android(XML and java)](Android)*
 5. **[Shadab Hafiz Choudhury](https://github.com/Namerlight)** - *[HTML5CFlag](HTML5CFlag)*
 6. **[Shawon Ashraf](https://github.com/ShawonAshraf)** - *[OpenGL-CPP](OpenGL-CPP)*
-
-
+7. **[Nazmul Hossain Nihal](https://github.com/nazmulhossainnihal)** - *[PHP](PHP)*
 
 
 ## Acknowledgments
