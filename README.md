@@ -36,6 +36,7 @@ Create a pull request
 
 ## Contributors
 **[Sabbir Mollah](https://github.com/SabbirMollah)** - *[Java-FX](Java-FX)* , *[Python-PyX](Python-PyX)*
+**[Md. Hasibul Alam Ratul](https://github.com/ratul16)** - *[JavaScript](JavaScript)*
 
 
 
