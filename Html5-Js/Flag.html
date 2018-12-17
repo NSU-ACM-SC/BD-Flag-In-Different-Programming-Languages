@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Victory Day 2018</title>
+</head>
+<body>
+
+<canvas id="flagArea" width="1000" height="600">
+
+    <script>
+
+        let canvas = document.getElementById("flagArea");
+
+        let flag_width = canvas.width;
+        let flag_height = canvas.height;
+        let circle_center_w = (canvas.width*0.45);
+        let circle_center_h = (canvas.height*0.5);
+        let circle_radius = (canvas.width*0.2);
+
+        let flag_back = canvas.getContext("2d");
+        flag_back.fillStyle = "#006747";
+        flag_back.fillRect(0, 0, flag_width, flag_height);
+
+        let flag_circle = canvas.getContext("2d");
+        flag_circle.beginPath();
+        flag_circle.arc(circle_center_w, circle_center_h, circle_radius, 0, 2 * Math.PI);
+        flag_circle.fillStyle = "#DA291C";
+        flag_circle.fill();
+
+        //exact proportions and colouring for flag lifted from wikipedia :)
+
+    </script>
+
+</canvas>
+
+</body>
+</html>
